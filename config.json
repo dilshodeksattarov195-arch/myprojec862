@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfalidate",
+        "uuid": 5244408,
+        "checksum": "8l3xyq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
